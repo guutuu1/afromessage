@@ -1,4 +1,4 @@
-# Afro Message a Laravel(PHP) SDK
+# Afro Message is fucking dogy style 🐕 
 
 This SDK provides a convinient access to the Afro message API.
 
